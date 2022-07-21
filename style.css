@@ -2,6 +2,8 @@ body {
   margin: 0cm;
  background-color:#F7F7F7;
 }
+.header{
+position:fixed; top:0}
 .pe {
   margin-right: 0.6cm;
   margin-left: 0.6cm;
