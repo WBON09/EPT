@@ -1,0 +1,85 @@
+body {
+  margin: 0cm;
+ background-color:#F7F7F7;
+}
+.pe {
+  margin-right: 0.6cm;
+  margin-left: 0.6cm;
+}
+.wbon {
+  height: 100%;
+  color: steelblue;
+  position: center;
+  font-size: 100px;
+}
+.gei {
+  color: green;
+  height: 50px;
+  margin-left: 0.5cm;
+}
+.list-group {
+  width: 500px;
+}
+.heisenberg {
+  color: green;
+  height: 40px;
+  position: center;
+  margin-left: 0.5cm;
+}
+.CM {
+  color: green;
+  height: 50px;
+  margin-left: 0.5cm;
+}
+
+.par1 {
+  margin-left: 0.3cm;
+}
+.par2 {
+  margin-left: 0.3cm;
+  margin-right: 0.3cm;
+}
+.r123 {
+  margin-top: 0.2cm;
+}
+
+.septima {
+  background-color: #dcdcdc;
+}
+.card {
+  border: 0 !important;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+    0 2px 4px -1px rgba(0, 0, 0, 0.6);
+  margin-bottom: 0.6cm;
+  margin-top: 0.5cm;
+  margin-left: 0.3cm;
+  height: 550px;
+  }
+.siricea {
+  color: green;
+  height: 40px;
+  position: center;
+  margin-left: 0.5cm;
+  }
+  
+.section {
+  display: flex;
+}
+
+
+.oscarin {
+  color: green;
+  height:30px;
+  position: center;
+  margin-left: 0.5cm;
+  margin-bottom: 0%;
+}
+.stripe-container .card{
+  width:300px;
+  flex-shrink:0;
+  margin-right:1rem;
+}
+.cerro{
+  top:20px;
+height:430px;
+}
